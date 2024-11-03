@@ -40,22 +40,16 @@ This project enables sending and receiving Morse code signals using the Raspberr
 1. **Upload the code** to the Pico using a MicroPython environment.
 2. **Select an option**:
    - **1**: Convert Morse code to text.
-   <br>
    <a href="https://ibb.co/bggJJY6"><img src="https://i.ibb.co/cccLLRy/morse-to-text.png" alt="morse-to-text" border="0" /></a>
-
-    <br>
-
+   <br>
    
    - **2**: Convert text to Morse code and display it via LED.
-   <br>
-   
-   <a href="https://ibb.co/cCDhgcK"><img src="https://i.ibb.co/vQZ4wxC/text-to-morse.png" alt="text-to-morse" border="0" /></a>
 
+   <a href="https://ibb.co/cCDhgcK"><img src="https://i.ibb.co/vQZ4wxC/text-to-morse.png" alt="text-to-morse" border="0" /></a>
    <br>
    
    - **3**: Input Morse code via button and see the corresponding text.
-   
-   <br>
+
    <a href="https://ibb.co/f1RMZrC"><img src="https://i.ibb.co/QbB9hY6/morse-via-but.png" alt="morse-via-but" border="0" /></a>
    <br>
    
