@@ -26,7 +26,7 @@ This project enables sending and receiving Morse code signals using the Raspberr
 
 ## Code Structure
 
-- **MORSE_EN and MORSE_BG** dictionaries contain Morse code correspondences for the English and Bulgarian alphabets.
+- **MORSE_EN** dictionarie contain Morse code correspondences for the English alphabetsщ.
 - **DOT_TIME, DASH_TIME_MIN, DASH_TIME_MAX** define the timing parameters for Morse symbols.
 - **Functions**:
     - `dot()`: Activates the LED for the duration of a dot.
