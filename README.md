@@ -42,7 +42,9 @@ This project enables sending and receiving Morse code signals using the Raspberr
    - **1**: Convert Morse code to text.
    <br>
    <a href="https://ibb.co/bggJJY6"><img src="https://i.ibb.co/cccLLRy/morse-to-text.png" alt="morse-to-text" border="0" /></a>
-   <br>
+
+    <br>
+
    
    - **2**: Convert text to Morse code and display it via LED.
    <br>
