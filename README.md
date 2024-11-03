@@ -41,16 +41,17 @@ This project enables sending and receiving Morse code signals using the Raspberr
 2. **Select an option**:
    - **1**: Convert Morse code to text.
    <br>
-   ![](https://ibb.co/bggJJY6)
+   <a href="https://ibb.co/bggJJY6"><img src="https://i.ibb.co/cccLLRy/morse-to-text.png" alt="morse-to-text" border="0" /></a>
    <br>
    - **2**: Convert text to Morse code and display it via LED.
    <br>
    ![](https://ibb.co/cCDhgcK)
    <br>
    - **3**: Input Morse code via button and see the corresponding text.
-  <br>
+   <br>
    ![](https://ibb.co/f1RMZrC)
    <br>
+   
 ## Troubleshooting
 
 - **Button and LED are not responding**: Check the pin connections and ensure the Pico board is powered.
