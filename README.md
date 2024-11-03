@@ -19,7 +19,7 @@ This project enables sending and receiving Morse code signals using the Raspberr
 
 ## Setup and Connections
 
-![](https://ibb.co/JFRVdfZ)
+<a href="https://ibb.co/JFRVdfZ"><img src="https://i.ibb.co/7NJPzwh/morse-pin-map.png" alt="morse-pin-map" border="0" /></a>
 
 1. **Connect the LED**: Connect the anode (long leg) of the LED to GPIO pin 18 and the cathode to GND.
 2. **Connect the Button**: Connect one end to GPIO pin 17 and the other end to GND with a pull-down resistor.
@@ -45,11 +45,11 @@ This project enables sending and receiving Morse code signals using the Raspberr
    <br>
    - **2**: Convert text to Morse code and display it via LED.
    <br>
-   ![](https://ibb.co/cCDhgcK)
+   <a href="https://ibb.co/cCDhgcK"><img src="https://i.ibb.co/vQZ4wxC/text-to-morse.png" alt="text-to-morse" border="0" /></a>
    <br>
    - **3**: Input Morse code via button and see the corresponding text.
    <br>
-   ![](https://ibb.co/f1RMZrC)
+   <a href="https://ibb.co/f1RMZrC"><img src="https://i.ibb.co/QbB9hY6/morse-via-but.png" alt="morse-via-but" border="0" /></a>
    <br>
    
 ## Troubleshooting
